@@ -37,3 +37,9 @@ function circle_photography_register_pattern_category()
     }
 }
 add_action('init', 'circle_photography_register_pattern_category', 9);
+
+function test()
+{
+	return "<h1> Howdy Partner</h1>";
+}
+add_action('init', 'test', 0);
