@@ -5,7 +5,10 @@
  * Slug: circle-photography/blog
  * Categories: circle-photography-patterns
  */
+
 ?>
+
+<h1>Howdy Partner</h1>
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","bottom":"100px","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}}},"backgroundColor":"black","layout":{"type":"constrained","wideSize":"100%"}} -->
 <div class="wp-block-group has-black-background-color has-background" style="padding-top:100px;padding-right:var(--wp--preset--spacing--40);padding-bottom:100px;padding-left:var(--wp--preset--spacing--40)"><!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0"},"blockGap":"60px"}},"layout":{"type":"constrained","wideSize":"1260px"}} -->
     <div class="wp-block-group" style="padding-right:0;padding-left:0"><!-- wp:group {"layout":{"type":"constrained","wideSize":"100%"}} -->
